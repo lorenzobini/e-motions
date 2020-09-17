@@ -1,4 +1,4 @@
-# Computer Vision Assignment 5: Action recognition in still images and videos
+# e-motions
 
 This repository contains a set of four CNNs (Convolutional Neural Networks) which can be trained to recognize actions in still images and videos based on optical flow.
 

@@ -1,0 +1,27 @@
+# Python general
+__pycache__/*
+
+# VSCode
+.vscode/*
+
+# Data
+# note: only remove actual data, keep file structure
+data/ImageSplits/*
+data/JPEGImages/*
+data/tv_human_interactions_videos/*
+data/saved/*
+
+# Virtual environments
+venv/*
+Pipfile
+Pipfile.lock
+
+# Cache
+utils/__pycache__
+
+# Models
+# note: only remove actual data, keep file structure
+models/*
+
+# Development
+test.py

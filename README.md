@@ -5,10 +5,10 @@ This repository contains a set of four CNNs (Convolutional Neural Networks) whic
 ## Getting Started
 
 1. Download the [image](http://vision.stanford.edu/Datasets/40actions.html) and [video](https://www.robots.ox.ac.uk/~alonso/tv_human_interactions.html) datasets and add them to the data folder
-2. Run main.py -> this will preprocess the data as well as train the CNNs
+2. Run _main.py_ -> this will preprocess the data as well as train the CNNs
 3. Do your predictions!
 
-[Note]: Every time you run main.py after the first time, it will recognize the data and CNNs that are already trained (and saved), and won't train them again.
+[_Note_]: Every time you run main.py after the first time, it will recognize the data and CNNs that are already trained (and saved), and won't train them again.
 
 ### Prerequisites
 
@@ -25,7 +25,7 @@ Install the following prerequisites:
 * scikit-learn == "0.22.2"
 
 **Requires**:
-* python_version = "3.6"
+* python_version = "3.6" or higher
 
 ## Authors
 
